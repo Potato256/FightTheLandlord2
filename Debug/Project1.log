@@ -1,0 +1,36 @@
+﻿  src.cpp
+C:\Users\60995\Desktop\课程\2021 春\Program Design\practice\斗地主\Project1\src.cpp(1575,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\60995\Desktop\课程\2021 春\Program Design\practice\斗地主\Project1\src.cpp(1604,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\60995\Desktop\课程\2021 春\Program Design\practice\斗地主\Project1\src.cpp(1635,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2021 春\Program Design\practice\斗地主\Project1\src.cpp(2660,107): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\60995\Desktop\课程\2021 春\Program Design\practice\斗地主\Project1\src.cpp(2692,107): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\60995\Desktop\课程\2021 春\Program Design\practice\斗地主\Project1\src.cpp(2724,107): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\60995\Desktop\课程\2021 春\Program Design\practice\斗地主\Project1\src.cpp(2769,105): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\60995\Desktop\课程\2021 春\Program Design\practice\斗地主\Project1\src.cpp(2801,105): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\60995\Desktop\课程\2021 春\Program Design\practice\斗地主\Project1\src.cpp(2833,105): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\60995\Desktop\课程\2021 春\Program Design\practice\斗地主\Project1\src.cpp(3659,108): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\60995\Desktop\课程\2021 春\Program Design\practice\斗地主\Project1\src.cpp(3689,108): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\60995\Desktop\课程\2021 春\Program Design\practice\斗地主\Project1\src.cpp(3719,108): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\60995\Desktop\课程\2021 春\Program Design\practice\斗地主\Project1\src.cpp(3762,106): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\60995\Desktop\课程\2021 春\Program Design\practice\斗地主\Project1\src.cpp(3792,106): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\60995\Desktop\课程\2021 春\Program Design\practice\斗地主\Project1\src.cpp(3822,106): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\60995\Desktop\课程\2021 春\Program Design\practice\斗地主\Project1\src.cpp(4326,108): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\60995\Desktop\课程\2021 春\Program Design\practice\斗地主\Project1\src.cpp(4342,108): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\60995\Desktop\课程\2021 春\Program Design\practice\斗地主\Project1\src.cpp(4358,108): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\60995\Desktop\课程\2021 春\Program Design\practice\斗地主\Project1\src.cpp(4378,106): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\60995\Desktop\课程\2021 春\Program Design\practice\斗地主\Project1\src.cpp(4394,106): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\60995\Desktop\课程\2021 春\Program Design\practice\斗地主\Project1\src.cpp(4410,106): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\60995\Desktop\课程\2021 春\Program Design\practice\斗地主\Project1\src.cpp(5199,108): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\60995\Desktop\课程\2021 春\Program Design\practice\斗地主\Project1\src.cpp(5229,108): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\60995\Desktop\课程\2021 春\Program Design\practice\斗地主\Project1\src.cpp(5259,108): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\60995\Desktop\课程\2021 春\Program Design\practice\斗地主\Project1\src.cpp(5302,106): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\60995\Desktop\课程\2021 春\Program Design\practice\斗地主\Project1\src.cpp(5332,106): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\60995\Desktop\课程\2021 春\Program Design\practice\斗地主\Project1\src.cpp(5362,106): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\60995\Desktop\课程\2021 春\Program Design\practice\斗地主\Project1\src.cpp(6181,108): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\60995\Desktop\课程\2021 春\Program Design\practice\斗地主\Project1\src.cpp(6211,108): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\60995\Desktop\课程\2021 春\Program Design\practice\斗地主\Project1\src.cpp(6241,108): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\60995\Desktop\课程\2021 春\Program Design\practice\斗地主\Project1\src.cpp(6284,106): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\60995\Desktop\课程\2021 春\Program Design\practice\斗地主\Project1\src.cpp(6314,106): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\60995\Desktop\课程\2021 春\Program Design\practice\斗地主\Project1\src.cpp(6344,106): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\60995\Desktop\课程\2021 春\Program Design\practice\斗地主\Project1\src.cpp(6412): warning C4715: “CardCombo::findValid”: 不是所有的控件路径都返回值
+  Project1.vcxproj -> C:\Users\60995\Desktop\课程\2021 春\Program Design\practice\斗地主\Project1\Debug\Project1.exe
